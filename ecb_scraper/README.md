@@ -1,6 +1,5 @@
 # ECB Press Conference scraper
-This directory contains necessary files for scraping ECB press conferences regarding monetary policy staments on key ECB interest rates.  
-Scraped data is located in the [outputs directory](ecb_scraper/outputs/).
+This directory contains necessary files for scraping ECB press conferences regarding monetary policy staments on key ECB interest rates. Scraped data is located in the [outputs directory](ecb_scraper/outputs/).
 
 ## Running the scraper
 To run the scraper follow these steps:
